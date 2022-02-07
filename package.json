@@ -18,6 +18,12 @@
   "homepage": "https://github.com/rajeev503/ecommerceapp#readme",
   "dependencies": {
     "express": "^4.17.2",
+<<<<<<< HEAD
     "mongoose": "^6.2.0"
+=======
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "method-override": "^3.0.0"
+>>>>>>> cd581fa59d99e76936482c2ad8b321ce205280f8
   }
 }
